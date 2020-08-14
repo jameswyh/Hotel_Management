@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root Name="酒店管理系统">
+  <Detail Item="房间信息管理">
+    <Option Text="添加房间信息"/>
+    <Option Text="更新房间信息"/>
+    <Option Text="删除房间信息"/>
+  </Detail >
+  <Detail Item="住客信息管理">
+    <Option Text="添加住客信息"/>
+    <Option Text="删除住客信息"/>
+    <Option Text="更新住客信息"/>
+    <Option Text="查询住客信息"/>
+  </Detail >
+  <Detail Item="预订信息管理">
+    <Option Text="添加预订信息"/>
+    <Option Text="修改预订信息"/>
+    <Option Text="查询预订信息"/>
+  </Detail >
+  <Detail Item="评价信息管理">
+  </Detail >
+</Root>

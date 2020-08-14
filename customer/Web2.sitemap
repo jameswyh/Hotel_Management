@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title=""  description="">
+      <siteMapNode url="customer/homepage.aspx" title="首页"  description="" />
+      <siteMapNode url="customer/roomlist.aspx" title="预订房间"  description="" />
+      <siteMapNode url="customer/orderlist.aspx" title="我的订单"  description="" />
+      <siteMapNode url="customer/commentlist.aspx" title="我的评价"  description="" />
+    </siteMapNode>
+</siteMap>
