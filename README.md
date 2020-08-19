@@ -1,4 +1,5 @@
 # Hotel_Management
+Author: Yihui Wang
 ## Description
 This system is a WEB-based hotel management system. The main purpose is to realize the electronic and automation of various internal management of the hotel management, improve the office efficiency of the hotel, and provide a guarantee for high-quality hotel services.
 ## Environment
