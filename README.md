@@ -106,7 +106,18 @@ This system is a WEB-based hotel management system. The main purpose is to reali
 | reply || nvarchar | 100 | √ | Comment reply |
 
 ## User Interface
+### Guest Main Page
 ![](https://github.com/jameswyh/Hotel_Management/blob/master/Hotel_UI_pic/Picture1.png)
+### Guest Booking Room Page
 ![](https://github.com/jameswyh/Hotel_Management/blob/master/Hotel_UI_pic/Picture2.png)
-![](https://github.com/jameswyh/Hotel_Management/blob/master/Hotel_UI_pic/Picture3.png)
+![](https://github.com/jameswyh/Hotel_Management/blob/master/Hotel_UI_pic/Picture5.png)
 ![](https://github.com/jameswyh/Hotel_Management/blob/master/Hotel_UI_pic/Picture4.png)
+![](https://github.com/jameswyh/Hotel_Management/blob/master/Hotel_UI_pic/Picture6.png)
+### Guest Order Page
+![](https://github.com/jameswyh/Hotel_Management/blob/master/Hotel_UI_pic/Picture3.png)
+### Guest Comment Page
+![](https://github.com/jameswyh/Hotel_Management/blob/master/Hotel_UI_pic/Picture9.png)
+### Receptionist Room Management Page
+![](https://github.com/jameswyh/Hotel_Management/blob/master/Hotel_UI_pic/Picture7.png)
+![](https://github.com/jameswyh/Hotel_Management/blob/master/Hotel_UI_pic/Picture8.png)
+
